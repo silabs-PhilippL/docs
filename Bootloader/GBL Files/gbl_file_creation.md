@@ -1,3 +1,3 @@
-# file2
+# Creating GBL Files
 
 source: `{{ page.path }}`

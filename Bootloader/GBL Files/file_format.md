@@ -1,3 +1,3 @@
-# file3
+# File Format
 
 source: `{{ page.path }}`

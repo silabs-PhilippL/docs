@@ -1,3 +1,3 @@
-# I'm folder1
+# Secure Boot
 
 source: `{{ page.path }}`

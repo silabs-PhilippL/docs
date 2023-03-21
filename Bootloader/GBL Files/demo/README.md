@@ -1,3 +1,3 @@
-# file1
+# Demo
 
 source: `{{ page.path }}`
