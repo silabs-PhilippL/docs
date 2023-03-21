@@ -4,10 +4,12 @@ sort: 1
 
 # LESENSE
 
+{% include list.liquid all=true %}
+
 Some documentation
 
-## Intro 
+## Intro ##
 
-## Detailed description
+## Detailed description ##
 
 More documentation

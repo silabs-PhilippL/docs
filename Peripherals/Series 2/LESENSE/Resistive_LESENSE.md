@@ -1,13 +1,13 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# Inductive LESENSE
+# Resistive LESENSE
 
 Some documentation
 
 ## How does it work? ##
 
-## How to setup inductive LESENSE? ##
+## How to setup resistive LESENSE? ##
 
 ## Something else ##

@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# LESENSE
+# Series 2
 
 ## Summary ##
 
