@@ -6,6 +6,8 @@ sort: 1
 
 Some documentation
 
-## Description ##
+## Intro 
+
+## Detailed description
 
 More documentation
