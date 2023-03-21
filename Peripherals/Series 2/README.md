@@ -2,10 +2,10 @@
 sort: 1
 ---
 
-# Series 2
+# LESENSE
+
+## Summary ##
 
 {% include list.liquid all=true %}
-
-source: `{{ page.path }}`
 
 ## Documentation ##
